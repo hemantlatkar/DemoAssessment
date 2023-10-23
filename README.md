@@ -1,6 +1,6 @@
-# Demo Assessment
+# Demo Assignment
 
-The Demo DemoAssessment, an app using the Themoviedatabase API for showing popular movies
+The Demo DemoAssignment, an app using the Themoviedatabase API for showing popular movies
 currently. The app is displaying posters of popular movies. When select a movie from the list, we
 can see details of the movie.
 
@@ -18,6 +18,6 @@ can see details of the movie.
 
 ## Application release link
 
+- [App Build](https://github.com/hemantlatkar/DemoAssessment/tree/main/app/release) - Application
   build
 
-# DemoAssessment
